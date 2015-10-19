@@ -1,0 +1,16 @@
+Path: news.astraweb.com!router1.astraweb.com!news.glorb.com!newsfeed101.telia.com!nf02.dk.telia.net!news.tele.dk!news.tele.dk!small.news.tele.dk!bnewspeer01.bru.ops.eu.uu.net!bnewspeer00.bru.ops.eu.uu.net!emea.uu.net!newshub.netvisao.pt!not-for-mail
+From: NNTP-Monitor@ism-monitor.netvisao.pt
+Newsgroups: misc.test
+Subject: NNTP Monitor Test Message
+Date: Sun, 21 Sep 2008 08:01:37 +0000 (UTC)
+Organization: Netvisao, A sua Internet por Cabo
+Lines: 1
+Message-ID: <newscache$oycj7k$0o7$1@newsfront4.netvisao.pt>
+NNTP-Posting-Host: newsfront4.netvisao.pt
+X-Trace: newshub.netvisao.pt 1221984097 20462 213.228.128.120 (21 Sep 2008 08:01:37 GMT)
+X-Complaints-To: abuse@netvisao.pt
+NNTP-Posting-Date: Sun, 21 Sep 2008 08:01:37 +0000 (UTC)
+X-NNTP-Posting-Host: music.netvisao.pt
+
+This message has been automatically sent by Micromuse's Netcool/NNTP Internet Service Monitor.
+.
